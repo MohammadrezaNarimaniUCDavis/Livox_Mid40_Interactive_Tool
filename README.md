@@ -52,3 +52,4 @@ Check out the [livox_controller_demo.py](./livox_controller_demo.py) file for a 
 - v1.0.2 and v1.0.3 released, Friday May 29th 2020
 - v1.1.0 released, Friday Sept. 11th 2020 (NEVER FORGET!)
 
+"# Livox_Mid40_Interactive_Tool" 
