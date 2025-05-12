@@ -63,7 +63,7 @@ This tool leverages and extends the incredible [OpenPyLivox](https://github.com/
 
 ## 🖼️ Sample Full-Density Point Cloud
 
-Below is a photo showing a point cloud captured with the interactive tool when the MID‑40 sensor was left running for approximately **50 minutes**. This demonstrates the sustained, high-density sampling you can achieve:
+Below is a photo showing a point cloud captured with the interactive tool when the MID‑40 sensor was left running for approximately **50 seconds**. This demonstrates the sustained, high-density sampling you can achieve:
 
 <img src="Test_Lab_PointCloud_Photo.png" alt="Sample Point Cloud Capture" width="700px">
 
